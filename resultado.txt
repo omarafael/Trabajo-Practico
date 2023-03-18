@@ -1,0 +1,3 @@
+Equipo1id Equipo1nombre Equipo1descripcion Equipo1cantidadgoles Equipo2cantidadgoles Equipo2id Equipo2nombre Equipo2descripcion
+1 Argentina Seleccionado 1 2 2 ArabiaSaudita Seleccionado
+3 Polonia Seleccionado 0 0 4 México Seleccionado

@@ -1,0 +1,3 @@
+Equipo1id Gana1	Empata Gana2 Equipo2id
+1 X 2
+3		X		4
